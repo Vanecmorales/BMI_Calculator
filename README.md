@@ -8,5 +8,5 @@ This is a mini project where I created a body mass index calculator.
 
 ### Image
 
-[![bmi-calculator.png](https://i.postimg.cc/XYfwjv3v/bmi-calculator.png)](https://postimg.cc/JshyKMsw)
+[![bmi-calculator-1.png](https://i.postimg.cc/RZWLCBVF/bmi-calculator-1.png)](https://postimg.cc/5XMCpDzd)
 

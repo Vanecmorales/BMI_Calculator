@@ -5,6 +5,6 @@ This is a mini project where I created a body mass index calculator.
 - Java
 - Swing GUI Form with intelliJ IDEA
 
-### Image
+### Functionality
 
-[![bmi-calculator.png](https://i.postimg.cc/XYfwjv3v/bmi-calculator.png)](https://postimg.cc/JshyKMsw)
+[![giphy-bmi.gif](https://i.postimg.cc/2j79brd8/giphy-bmi.gif)](https://postimg.cc/6TTfFs1D)
